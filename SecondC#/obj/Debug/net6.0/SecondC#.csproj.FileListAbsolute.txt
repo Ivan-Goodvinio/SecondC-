@@ -1,0 +1,16 @@
+C:\Users\1\Desktop\SecondC#\obj\Debug\net6.0\SecondC#.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\SecondC#\obj\Debug\net6.0\SecondC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\SecondC#\obj\Debug\net6.0\SecondC#.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\SecondC#\obj\Debug\net6.0\SecondC#.AssemblyInfo.cs
+C:\Users\1\Desktop\SecondC#\obj\Debug\net6.0\SecondC#.ImplicitNamespaceImports.cs
+C:\Users\1\Desktop\SecondC#\obj\Debug\net6.0\SecondC#.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\SecondC#\bin\Debug\net6.0\SecondC#.exe
+C:\Users\1\Desktop\SecondC#\bin\Debug\net6.0\SecondC#.deps.json
+C:\Users\1\Desktop\SecondC#\bin\Debug\net6.0\SecondC#.runtimeconfig.json
+C:\Users\1\Desktop\SecondC#\bin\Debug\net6.0\SecondC#.dll
+C:\Users\1\Desktop\SecondC#\bin\Debug\net6.0\SecondC#.pdb
+C:\Users\1\Desktop\SecondC#\obj\Debug\net6.0\SecondC#.dll
+C:\Users\1\Desktop\SecondC#\obj\Debug\net6.0\refint\SecondC#.dll
+C:\Users\1\Desktop\SecondC#\obj\Debug\net6.0\SecondC#.pdb
+C:\Users\1\Desktop\SecondC#\obj\Debug\net6.0\SecondC#.genruntimeconfig.cache
+C:\Users\1\Desktop\SecondC#\obj\Debug\net6.0\ref\SecondC#.dll
